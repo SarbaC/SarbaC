@@ -1,5 +1,5 @@
 👋 Hi, I'm Sarbajeet Chatterjee!
-I'm a Manual Functional Software Tester currently working in the insurance domain, where I focus on ensuring high-quality user experiences through structured test planning, scenario design, and defect analysis. While testing is my present role, I'm actively working toward becoming a Software Developer, continuously learning, building, and improving my technical skill set.
+I'm a Manual Functional Software Tester currently working in the insurance domain, where I focus on ensuring high-quality user experiences through structured test planning, scenario design, and defect analysis. While testing is my present role, I'm **actively working toward becoming a Software Developer**, continuously learning, building, and improving my technical skill set.
 
 🛠️ **Tech Stack & Skills**
 * Languages: Java, Python
